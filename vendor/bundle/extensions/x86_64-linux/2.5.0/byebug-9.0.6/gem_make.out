@@ -1,0 +1,19 @@
+current directory: /home/chris/rails-tutorial/hello_app/vendor/bundle/gems/byebug-9.0.6/ext/byebug
+/home/chris/.rvm/rubies/ruby-2.5.3/bin/ruby -r ./siteconf20190204-18503-axtg6b.rb extconf.rb
+creating Makefile
+
+current directory: /home/chris/rails-tutorial/hello_app/vendor/bundle/gems/byebug-9.0.6/ext/byebug
+make "DESTDIR=" clean
+
+current directory: /home/chris/rails-tutorial/hello_app/vendor/bundle/gems/byebug-9.0.6/ext/byebug
+make "DESTDIR="
+compiling breakpoint.c
+compiling byebug.c
+compiling context.c
+compiling locker.c
+compiling threads.c
+linking shared-object byebug/byebug.so
+
+current directory: /home/chris/rails-tutorial/hello_app/vendor/bundle/gems/byebug-9.0.6/ext/byebug
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 byebug.so ./.gem.20190204-18503-1y05fct/byebug
